@@ -1,0 +1,13 @@
+{
+  "shell_port": 49947,
+  "iopub_port": 47477,
+  "stdin_port": 51597,
+  "control_port": 50695,
+  "hb_port": 34691,
+  "ip": "127.0.0.1",
+  "key": "697e1769-0bffb960db7fddb9934b8c9b",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter-1002215/fruit classifier/Fruit.ipynb"
+}
