@@ -15,7 +15,6 @@ venv/
 .vscode/
 
 # Large data files or outputs (adjust as needed)
-*.csv
 *.xlsx
 *.parquet
 *.pkl
